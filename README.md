@@ -11,7 +11,3 @@ I attached my keycard to my Yubikey so I don't forget to lock my computer when I
 1. Paste this script (or a link to the location where you've saved this script on your machine)
 1. Save and exit Automator
 1. Open up the Users Settings panel, go to Login Items, and add your new Automator App.
-
-## License
-
-ISC
